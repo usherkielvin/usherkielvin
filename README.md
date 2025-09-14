@@ -44,35 +44,6 @@
 
 ---
 
-## 🏗️ Featured Projects
-
-<div align="center">
-
-### ⚡ [Cephra Charging Station System](https://github.com/usherkielvin/Cephra)
-*A complete EV charging station management platform*
-<br>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-ED8B00?style=flat-square&logo=java&logoColor=white)
-
-**Key Features:**
-- ⚡ Real-time charging bay management  
-- 📱 Mobile-responsive web interface  
-- 🔔 Advanced notification system  
-- 💳 Integrated payment processing  
-- 🎁 Reward points system  
-- 📊 Comprehensive analytics  
-
----
-
-### 🌐 [Cephra Web Interface](https://github.com/usherkielvin/Cephra/tree/main/Appweb)
-*Modern mobile-first web application*
-<br>
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</div>
-
 ---
 
 <div align="center">
