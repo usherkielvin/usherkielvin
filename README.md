@@ -32,25 +32,6 @@
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 </div>
-
----
-
-## 🎯 Current Projects
-
-- 🔥 **Cephra System**: Complete charging station management platform
-- 📱 **Mobile-First Design**: Responsive web interfaces
-- 🗄️ **Database Architecture**: Robust data management systems
-- 🎨 **UI/UX Design**: Beautiful and functional interfaces
-- 🔔 **Real-time Notifications**: Advanced notification systems
-
----
-
-## 📈 Profile Views
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=usherkielvin&label=Profile%20views&color=00FF88&style=flat-square" alt="Profile Views" />
-</div>
-
 ---
 
 ## 🏗️ Featured Projects
@@ -81,51 +62,6 @@
 </div>
 
 ---
-
-## 💡 What I'm Working On
-
-```java
-// Current development focus
-public class CurrentFocus {
-    public static void main(String[] args) {
-        System.out.println("⚡ Optimizing charging station algorithms");
-        System.out.println("📱 Enhancing mobile user experience");
-        System.out.println("🎨 Improving UI/UX design patterns");
-        System.out.println("🔔 Refining notification systems");
-        System.out.println("📊 Building comprehensive analytics");
-    }
-}
-```
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usherkielvin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/usherkielvin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usherkielvin@example.com)
-
-</div>
-
----
-
-## 🎮 Fun Facts
-
-- 🏗️ **System Architect**: Building scalable charging infrastructure
-- ☕ **Coffee Powered**: Fueled by endless cups of coffee
-- 🎨 **Design Enthusiast**: Love creating beautiful user interfaces
-- 🧩 **Problem Solver**: Always finding elegant solutions
-- 📚 **Continuous Learner**: Always exploring new technologies
-
----
-
-<div align="center">
-  
-### 💻 "Building the future of electric vehicle charging, one commit at a time!"
-
-**Creating innovative solutions for a sustainable future** 🌱
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=65&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=FFFFFF&fontAlignY=65)
 
