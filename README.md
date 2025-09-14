@@ -42,12 +42,3 @@
 
 </div>
 
----
-
----
-
-<div align="center">
-  
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=65&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=FFFFFF&fontAlignY=65)
-
-</div>
