@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Usher Kielvin
 
 🚀 19-year-old IT student | ⚡ Scalper & Day Trader | 💻 Passionate Developer  
-🎯 Currently building **MIRA Bank ATM** & **Cephra Charging Station System**
+🎯 Currently building **Cephra Charging Station System**
 
 ---
 
