@@ -1,34 +1,3 @@
-# �� Hey there! I'm usherkielvin
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+Swing+Expert;Database+Architect;Mobile+App+Developer;Always+Building+Something+New" alt="Typing SVG" />
-</div>
-
----
-
-## 🚀 About Me
-
-```java
-public class UsherKielvin extends Developer {
-    private String location = "Earth"; // 🌍 Building awesome apps on planet Earth
-    private String[] skills = {
-        "Java Development", 
-        "Swing GUI Applications", 
-        "Database Design", 
-        "Mobile Development",
-        "System Architecture"
-    };
-    private String currentProject = "Cephra Charging Station Management System";
-    private int coffeeConsumption = Integer.MAX_VALUE; // ☕
-    
-    public void code() {
-        System.out.println("Building the future, one line of code at a time!");
-    }
-}
-```
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -44,7 +13,7 @@ public class UsherKielvin extends Developer {
 
 ---
 
-## ��️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -70,9 +39,9 @@ public class UsherKielvin extends Developer {
 
 - 🔥 **Cephra System**: Complete charging station management platform
 - 📱 **Mobile-First Design**: Responsive web interfaces
-- ��️ **Database Architecture**: Robust data management systems
+- 🗄️ **Database Architecture**: Robust data management systems
 - 🎨 **UI/UX Design**: Beautiful and functional interfaces
-- �� **Real-time Notifications**: Advanced notification systems
+- 🔔 **Real-time Notifications**: Advanced notification systems
 
 ---
 
@@ -99,7 +68,7 @@ public class UsherKielvin extends Developer {
 - ⚡ Real-time charging bay management
 - 📱 Mobile-responsive web interface
 - 🔔 Advanced notification system
-- �� Integrated payment processing
+- 💳 Integrated payment processing
 - 🎁 Reward points system
 - 📊 Comprehensive analytics
 
@@ -147,7 +116,7 @@ public class CurrentFocus {
 - 🏗️ **System Architect**: Building scalable charging infrastructure
 - ☕ **Coffee Powered**: Fueled by endless cups of coffee
 - 🎨 **Design Enthusiast**: Love creating beautiful user interfaces
-- �� **Problem Solver**: Always finding elegant solutions
+- 🧩 **Problem Solver**: Always finding elegant solutions
 - 📚 **Continuous Learner**: Always exploring new technologies
 
 ---
@@ -156,7 +125,7 @@ public class CurrentFocus {
   
 ### 💻 "Building the future of electric vehicle charging, one commit at a time!"
 
-**Creating innovative solutions for a sustainable future** ��
+**Creating innovative solutions for a sustainable future** 🌱
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=65&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=FFFFFF&fontAlignY=65)
 
