@@ -36,8 +36,8 @@ I am a 2nd-year Information Technology student specializing in **Mobile and Web 
 
 ### 📊 GitHub Stats
 
-![Ponce's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Ponce's GitHub stats](https://github-readme-stats.vercel.app/api?username=usherkielvin&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usherkielvin&layout=compact&theme=tokyonight)
 
 ---
 
@@ -49,4 +49,5 @@ I am a 2nd-year Information Technology student specializing in **Mobile and Web 
 
 ---
 *"The best way to predict the future is to invent it."*
+
 
