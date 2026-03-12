@@ -1,6 +1,5 @@
-# Hi there, I'm Ponce! 👋
 
-### 👨‍💻 Aspiring Backend & Cloud Engineer | BSIT-MWA @ National University Manila
+### 👨‍💻 Aspiring Backend | BSIT-MWA @ National University
 
 I am a 2nd-year Information Technology student specializing in **Mobile and Web Applications**. I am passionate about building robust backend architectures, managing database systems, and optimizing DevOps workflows on Linux environments.
 
@@ -50,3 +49,4 @@ I am a 2nd-year Information Technology student specializing in **Mobile and Web 
 
 ---
 *"The best way to predict the future is to invent it."*
+
