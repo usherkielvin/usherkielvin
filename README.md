@@ -34,10 +34,6 @@ I am a 2nd-year Information Technology student specializing in **Mobile and Web 
 ### 🔭 What I'm Working On
 
 - 🏛️ **Capstone Project:** Developing an integrated Inventory and Hiring System for *Ashcol Airconditioning Corporation*.
-- ⚙️ **Systems:** Exploring system optimization and dual-boot workflows between **Windows** and **Fedora Linux**.
-- 📊 **Data Structures:** Crafting complex relational schemas and studying backend performance.
-- 🌐 **Web:** Building custom themes and backend integrations for **Shopify** e-commerce.
-
 ---
 
 ### 📈 GitHub Ecosystem
@@ -45,16 +41,4 @@ I am a 2nd-year Information Technology student specializing in **Mobile and Web 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usherkielvin&layout=compact&theme=nord" alt="Top Langs" />
 </div>
-
----
-
-### 📫 Connect with Me
-
-- 📍 **Location:** Metro Manila, Philippines 🇵🇭
-- 🎓 **Education:** National University (BSIT - Mobile and Web Applications)
-- 🎮 **Interests:** Tech Industry Trends, and Finance/Trading (XAU/USD).
-
-*"The best way to predict the future is to invent it."*
-
-
 
