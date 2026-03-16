@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Usher Kielvin!
 
-### 👨‍💻 Backend Developer | BSIT-MWA @ National University
+### 👨‍💻 Backend Developer | @ National University
 
 I am a 2nd-year Information Technology student specializing in **Mobile and Web Applications**. I am passionate about building robust backend architectures, managing database systems, and optimizing DevOps workflows.
 
