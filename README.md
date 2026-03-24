@@ -14,9 +14,3 @@ I am a 2nd-year Information Technology student specializing in **Mobile and Web 
 
 ### 🔭 What I'm Working On
 > 🏛️ **Capstone Project:** Developing an integrated Inventory and Hiring System for *Ashcol Airconditioning Corporation*.
-
-<br>
-
-### 📈 GitHub Ecosystem
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usherkielvin&layout=compact&theme=nord" alt="Top Langs" />
-
