@@ -13,4 +13,4 @@ I am a 2nd-year Information Technology student specializing in **Mobile and Web 
 <br>
 
 ### 🔭 What I'm Working On
-> 🏛️ **Capstone Project:** Developing an integrated Inventory and Hiring System for *Ashcol Airconditioning Corporation*.
+> 🏛️ **Capstone Project:** Developing an Full Web System for *Ashcol Airconditioning Corporation*.
