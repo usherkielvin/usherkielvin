@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Usher Kielvin!
 
-### 👨‍💻 Backend Developer | @ National University
+### 👨‍💻 Software Engineer & Technical Project Lead | @ National University
 
-I am a 2nd-year Information Technology student specializing in **Mobile and Web Applications**. I am passionate about building robust backend architectures, managing database systems, and optimizing DevOps workflows.
+I am an Information Technology student specializing in **Mobile and Web Applications**. Operating at the intersection of backend engineering and modern agentic AI development workflows, I focus on systems orchestration—building scalable architectures, designing robust database logic, and managing cross-functional technical teams.
 
 <br>
 
