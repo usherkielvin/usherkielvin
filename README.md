@@ -12,5 +12,6 @@ I am an Information Technology student specializing in **Mobile and Web Applicat
 
 <br>
 
-### 🔭 What I'm Working On
-> 🏛️ **Capstone Project:** Developing an Full Web System for *Ashcol Airconditioning Corporation*.
+### 🛠️ What I'm Working On
+
+* 🏛️ **Capstone Project:** Spearheading the technical delivery of a multi-platform digital ecosystem (Web System & Mobile Application) for *Ashcol Airconditioning Corporation*.
